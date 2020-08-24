@@ -16,5 +16,5 @@ python main.py
 
 This will make some plots pop up showing the results!
 
-The code is also written in a (jupyter notebook)[./main.ipynb], though it is
+The code is also written in a [jupyter notebook](./main.ipynb), though it is
 messier.
