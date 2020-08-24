@@ -19,3 +19,6 @@ This will make some plots pop up showing the results!
 
 The code is also written as a [jupyter notebook](./main.ipynb), though it is
 messier.
+
+One hiccup is the "torchsearchsorted" package -- which has to be installed
+manually from: https://github.com/aliutkus/torchsearchsorted
